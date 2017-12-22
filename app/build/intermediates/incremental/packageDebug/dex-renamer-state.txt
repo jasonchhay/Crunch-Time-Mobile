@@ -1,0 +1,7 @@
+#Tue Sep 12 23:52:11 EDT 2017
+base.0=C\:\\Users\\jason\\OneDrive\\Documents\\CrunchTime\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_906ba3ee3235d234e160429b501e91ef810fa55f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\jason\\OneDrive\\Documents\\CrunchTime\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9c8782cc6bb58c587df175f4ce780bfacf6dbda6\\classes.dex
+base.1=C\:\\Users\\jason\\OneDrive\\Documents\\CrunchTime\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9c8782cc6bb58c587df175f4ce780bfacf6dbda6
+file.0=C\:\\Users\\jason\\OneDrive\\Documents\\CrunchTime\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_906ba3ee3235d234e160429b501e91ef810fa55f\\classes.dex

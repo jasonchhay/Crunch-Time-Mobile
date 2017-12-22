@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\jason\.android\build-cache\baed568417e6adf39bd06288927c58432c880448\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5455ce0e4f805691a29bab062a2e9304b624bc20\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jason\.android\build-cache\4b2589a42aeafacc46f24270d46d5579920f3453\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\pre-dexed\debug\classes_b396f68c43563311c5164779fcd7b6a2e331cde9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jason\.android\build-cache\3c0f0f8f8f7212281434108506978d50966fcbb1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\pre-dexed\debug\classes_5681aefa14afdd18617be367915f53ff144d77f0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jason\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_42d166d79086cfcbf7fae4c79d03288ce66e212b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jason\.android\build-cache\baed568417e6adf39bd06288927c58432c880448\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\pre-dexed\debug\classes_5455ce0e4f805691a29bab062a2e9304b624bc20.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jason\.android\build-cache\4b2589a42aeafacc46f24270d46d5579920f3453\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b396f68c43563311c5164779fcd7b6a2e331cde9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jason\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_42d166d79086cfcbf7fae4c79d03288ce66e212b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jason\.android\build-cache\304f9ef016bda417708a2eaf9cefda38a478edfc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_52e6a66edbaf19458231e914573dbcba07426496\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jason\.android\build-cache\d350ca7539a735d27b290c8acfb9112ec9638f77\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_84e62a1b49fff5cba863e609c6d004497138311e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b25799945f9ad0ce278606105c6152cbbab2f00d">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_906ba3ee3235d234e160429b501e91ef810fa55f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jason\.android\build-cache\189320d031ca2e50b6143564c9d0b2832749d8b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\pre-dexed\debug\classes_b77a1d02b905e0c4d760f49d24f79e2fca73060c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jason\.android\build-cache\d350ca7539a735d27b290c8acfb9112ec9638f77\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\pre-dexed\debug\classes_84e62a1b49fff5cba863e609c6d004497138311e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jason\.android\build-cache\847b8873cb6d3c21386e35e50f648142f3937737\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb538632a0a418cbf3c9ffd9ecf7fb8ed1d3261f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jason\.android\build-cache\12d16782f0cd490d7f1e017c99427d742dcab72f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\pre-dexed\debug\classes_4eb6900d8451cfcb25937a75969e3d493a10109b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jason\.android\build-cache\3c0f0f8f8f7212281434108506978d50966fcbb1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5681aefa14afdd18617be367915f53ff144d77f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jason\.android\build-cache\189320d031ca2e50b6143564c9d0b2832749d8b6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b77a1d02b905e0c4d760f49d24f79e2fca73060c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jason\.android\build-cache\12d16782f0cd490d7f1e017c99427d742dcab72f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4eb6900d8451cfcb25937a75969e3d493a10109b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jason\.android\build-cache\847b8873cb6d3c21386e35e50f648142f3937737\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\pre-dexed\debug\classes_fb538632a0a418cbf3c9ffd9ecf7fb8ed1d3261f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jason\.android\build-cache\399ad3460b1acde211ccf1becabf6d3f84e85d33\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\pre-dexed\debug\classes_a3cf51c25a69ea1f7639d892868be400d800c187.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jason\.android\build-cache\399ad3460b1acde211ccf1becabf6d3f84e85d33\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3cf51c25a69ea1f7639d892868be400d800c187\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jason\.android\build-cache\f91fabebd7b17c753b90691019a95d5fffa8797e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\pre-dexed\debug\classes_07372c16e0adb647bce171539891b085cb427e71.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jason\.android\build-cache\f91fabebd7b17c753b90691019a95d5fffa8797e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_07372c16e0adb647bce171539891b085cb427e71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9c8782cc6bb58c587df175f4ce780bfacf6dbda6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jason\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_9dd55ca01c36342dd1e5ceeb6019584d35da0624.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jason\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_9dd55ca01c36342dd1e5ceeb6019584d35da0624\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jason\.android\build-cache\304f9ef016bda417708a2eaf9cefda38a478edfc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\pre-dexed\debug\classes_52e6a66edbaf19458231e914573dbcba07426496.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jason\.android\build-cache\10444041adf4e9a266eafe4d3a83ff488f5a2400\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f68d09bbb84958756c83f858c35ee40fa036971\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jason\.android\build-cache\f0a430901c671e94cc779ccbe2c85949c41c1250\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a16ff4b7a9f7f8a551c298083f827cab152b8c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jason\.android\build-cache\70cad4306f7b8d4626cf00f96355892615261a7b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\pre-dexed\debug\classes_694506f8f966d105cb825353cce7d35c4dbe4708.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jason\.android\build-cache\f0a430901c671e94cc779ccbe2c85949c41c1250\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\pre-dexed\debug\classes_4a16ff4b7a9f7f8a551c298083f827cab152b8c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jason\.android\build-cache\10444041adf4e9a266eafe4d3a83ff488f5a2400\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\pre-dexed\debug\classes_9f68d09bbb84958756c83f858c35ee40fa036971.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jason\.android\build-cache\70cad4306f7b8d4626cf00f96355892615261a7b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\jason\OneDrive\Documents\CrunchTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_694506f8f966d105cb825353cce7d35c4dbe4708\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Crunch Time</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="timer_header">Study Timer</string>
+    <string name="longterm_header">Long-Term Goal Manager</string>
+    <string name="timer_prompt">Study:   </string>
+    <string name="break_prompt">Break:  </string>
+
+    <string name = "name_prompt">Timer name</string>
+    <string name="timer_hint">Enter time</string>
+
+    <string name="hour_prompt">HR</string>
+    <string name = "min_prompt">MN</string>
+    <string name = "sec_prompt">SC</string>
+
+
+    <string name = "colon">:</string>
+    <string name = "start_button">START</string>
+    <string name = "pause_button">PAUSE</string>
+    <string name = "stop_button">STOP</string>
+</resources>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\jason\\OneDrive\\Documents\\CrunchTime\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\jason\\.android\\build-cache\\70cad4306f7b8d4626cf00f96355892615261a7b\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\jason\\OneDrive\\Documents\\CrunchTime\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\jason\\.android\\build-cache\\70cad4306f7b8d4626cf00f96355892615261a7b\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\jason\\OneDrive\\Documents\\CrunchTime\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\jason\\.android\\build-cache\\70cad4306f7b8d4626cf00f96355892615261a7b\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\jason\\OneDrive\\Documents\\CrunchTime\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\jason\\.android\\build-cache\\70cad4306f7b8d4626cf00f96355892615261a7b\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]
